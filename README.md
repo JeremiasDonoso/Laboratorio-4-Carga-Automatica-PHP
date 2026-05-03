@@ -29,6 +29,7 @@ php index.php
 
 ## 🗂️ Estructura de Carpetas
 ![Img Estructura](img/EstructuraCarpetas.png)
+
 La imagen muestra la forma en que se deben estructurar las carpetas para lograr una correcta ejecución del estándar PSR-4. Sin embargo, se debe también tener en cuenta lo siguiente:
 #### 1. Definir el composer.json:
 Cada clase debe estar dentro del composer para asegurar su funcionamiento, ya que este permite establecer la dirección de cada clase en la estructura de carpetas. Se define así:
